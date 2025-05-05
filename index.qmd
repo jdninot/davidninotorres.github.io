@@ -1,18 +1,30 @@
 ---
-title: "About"
-image: profile.jpg
+title: "David Niño-Torres"
+subtitle: |
+  Statistician/Photographer
+image: Photo.jpg
 about:
-  template: jolla
+  id: hero-heading
+  template: trestles
+  image-width: 15em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=igCiJo0AAAAJ&hl=es
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/davidninotorres/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/jdninot
 ---
 
-About this blog
+### About me
+
+I am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontificia Universidad Javeriana.
+
+My research interests focus on the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference in the areas of global health, epidemiology, demography, genomics, and environmental studies.
+
+Also, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.
+
+> *"You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make" — Jane Goodal.*
