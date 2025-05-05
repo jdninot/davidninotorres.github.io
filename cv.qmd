@@ -1,0 +1,83 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-depth: 2
+# title-block-banner: true
+---
+
+> To us, probability is the very guide of life. —Marcus Tullius Cicero
+
+## 🏛️ Education
+
+**Pontificia Universidad Javeriana**, Bogotá D.C, Colombia\
+**MSc in Biostatistics**, 2024 – Present\
+*Relevant coursework:* Epidemiology, Longitudinal Models, Health Economics, Advanced Topics in Biostatistics
+
+**Universidad Nacional de Colombia**, Bogotá D.C, Colombia\
+**BSc in Statistics**, 2014 – 2021\
+*Relevant coursework:* Spatial Statistics, Bayesian Statistics, Stochastic Processes, Demography\
+*Thesis:* *Stochastic Modelling of the COVID-19 Pandemic with Explicit Behavioural Changes in Bogotá: A Case Study*\
+*Supervisors:* Liliana Blanco & Viswanathan Arunachalam
+
+## 🔬 Research experience
+
+**Pontificia Universidad Javeriana, Faculty of Medicine**, Bogotá D.C, Colombia\
+**Research Assistant: Statistician**, 2023 – 2025\
+*Department of Clinical Epidemiology and Biostatistics*\
+- **NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America**\
+- Processed and analysed sociodemographic and epidemiological data from official sources\
+- Produced interactive visualisations and national/regional trend reports\
+- **OLA Study: Mental Health among Youth in Latin America**\
+- Cleaned and processed baseline and cohort data\
+- Conducted stratified analyses and fitted generalised linear and longitudinal models\
+- Drafted reports and contributed to article writing\
+[NIHR LATAM Centre](https://nihrlatamcentre.com), [OLA Study](https://theolastudy.com)
+
+**Universidad Nacional de Colombia, Faculty of Engineering**, Bogotá D.C, Colombia\
+**Research Assistant: Statistician**, 2021 – 2022\
+*LAB101 - Innovation, Creativity, and New Technologies Laboratory*\
+- Analysed and visualised data on internet service quality in collaboration with CRC\
+- Developed indicators for digital transformation in higher education\
+- Provided data analysis training and statistical consulting for a project with Bogotá's city council\
+- Applied deep learning techniques for data analysis and automation\
+[LAB101 UNAL](https://sites.google.com/view/lab101unal/inicio)
+
+## 🏫 Academic experience
+
+**Universidad Nacional de Colombia, Department of Statistics**, Bogotá D.C, Colombia\
+**Student Assistant**, 2019 – 2022\
+*Stochastic Processes Research Group*\
+- Processed and cleaned COVID-19 surveillance data\
+- Implemented Markov chains and stochastic differential equations to project pandemic scenarios
+
+**Universidad Nacional de Colombia, Institute of Urban Studies**, Bogotá D.C, Colombia\
+**Student Assistant**, 2021\
+- Supported a seminar on global cities, industries, and market chains\
+- Prepared course materials, developed graphics and calculations, and reviewed student assignments
+
+## 🧠 Skills and Interests
+
+**Technical Skills:** R (advanced), Python (intermediate), SAS (basic), SQL (basic)\
+**Languages:** Spanish (native), English (A1)\
+**Statistical Interests:** Bayesian statistics, stochastic processes, multilevel modelling, statistical learning, and causal inference\
+**Application Areas:** Environmental studies, migration, mortality and ageing, substance use epidemiology, infectious diseases, and genomics\
+**Hobbies:** Photography, history, running, swimming
+
+## 📜 Certifications
+
+**Infectious Disease Modelling Specialisation**, 2020\
+*Imperial College London (Coursera)* - Credential ID: PQYP8CKJFYS3\
+- SIR model development, interventions, and calibration\
+
+**TensorFlow Developer Professional Certificate**, 2020\
+*DeepLearning.AI (Coursera)* - Credential ID: MPC3F53UD7QX\
+- AI, machine learning, and deep learning using TensorFlow\
+- Convolutional Neural Networks, NLP, time series, and forecasting\
+
+```{=html}
+<style>
+h1, h2, h3 {
+  font-weight: 600;
+}
+</style>
+```

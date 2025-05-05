@@ -1,0 +1,11 @@
+---
+title: "Publications"
+toc: true
+toc-depth: 2
+---
+
+> "*You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to. Individuals vary, but percentages remain constant. So says the statistician.*" — Sherlock Holmes, The Sign of Four
+
+## 🔬 Scientific articles
+
+-   David Niño-Torres, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer. Stochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study, Infectious Disease Modelling. Volume 7, Issue 1, 2022, Pages 199-211, ISSN 2468-0427, <https://doi.org/10.1016/j.idm.2021.12.008>.
