@@ -21,10 +21,10 @@ about:
 
 ### About me
 
-I am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontificia Universidad Javeriana.
+I am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontifical Javierian University.
 
-My research interests focus on the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference in the areas of global health, epidemiology, demography, genomics, and environmental studies.
+My research interests lie in the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference across the fields of demography, global health, epidemiology, genomics, and environmental studies.
 
-Also, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.
+Outside of work, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and reading philosophy 📚.
 
 > *"You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make" — Jane Goodal.*
