@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "David Niño-Torres",
-    "section": "",
-    "text": "About me\nI am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontificia Universidad Javeriana.\nMy research interests focus on the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference in the areas of global health, epidemiology, demography, genomics, and environmental studies.\nAlso, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.\n\n“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make” — Jane Goodal."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "David Niño-Torres",
@@ -14,46 +7,11 @@
     "text": "About me\nI am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontificia Universidad Javeriana.\nMy research interests focus on the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference in the areas of global health, epidemiology, demography, genomics, and environmental studies.\nAlso, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.\n\n“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make” — Jane Goodal."
   },
   {
-    "objectID": "photos.html",
-    "href": "photos.html",
-    "title": "Photos",
-    "section": "",
-    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” ― Ansel Adams"
-  },
-  {
-    "objectID": "photos.html#through-lens",
-    "href": "photos.html#through-lens",
-    "title": "Photos",
-    "section": "",
-    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” ― Ansel Adams"
-  },
-  {
     "objectID": "bioepi.html",
     "href": "bioepi.html",
     "title": "BioEpi Insights",
     "section": "",
     "text": "Principles of confounder selection - Tyler J VanderWeele\n\n\n\npost\n\n\n\n\n\n\n\n\n\nApr 24, 2025\n\n\nDavid Niño\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/Principles of confounder selection/index.html",
-    "href": "posts/Principles of confounder selection/index.html",
-    "title": "Principles of confounder selection - Tyler J VanderWeele",
-    "section": "",
-    "text": "Confounding by covariates C of the relationship between exposure A and outcome Y\n\n\nThe article “Principles of Confounder Selection”, by Tyler J. VanderWeele, published in the European Journal of Epidemiology in 2019 (PMCID: PMC6447501 PMID: 30840181), highlights the importance of correctly selecting confounding factors in observational studies to make valid causal inferences. VanderWeele proposes a practical approach based on identifying variables that are causes of the exposure, the outcome, or both, and suggests excluding those that act as instrumental variables. He also considers the inclusion of proxies for unmeasured variables that may be common causes. The article seeks to balance the need to control confounding factors while avoiding the introduction of additional biases, especially in contexts where the causal structure is not fully understood.\nAdditionally, statistical strategies for selecting covariates in causal studies are discussed, including traditional methods such as forward/backward selection and changes in estimation, as well as more recent approaches like HDPS (High-Dimensional Propensity Scores) and machine learning techniques. It is emphasised that, despite methodological advances, substantive knowledge remains crucial for good selection.\nFrom my experience, this article was a real gateway into the world of causal inference. I found it valuable not only for its conceptual clarity but also because VanderWeele effectively tackles a complex issue with well-grounded and practical recommendations. I consider it essential reading for those starting to face the challenge of controlling for confounding in observational studies, and a reference I return to frequently. Without a doubt, it is one of those works that leaves a lasting impact on anyone interested in causality."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "“You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to. Individuals vary, but percentages remain constant. So says the statistician.” — Sherlock Holmes, The Sign of Four"
-  },
-  {
-    "objectID": "publications.html#scientific-articles",
-    "href": "publications.html#scientific-articles",
-    "title": "Publications",
-    "section": "🔬 Scientific articles",
-    "text": "🔬 Scientific articles\n\nDavid Niño-Torres, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer. Stochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study, Infectious Disease Modelling. Volume 7, Issue 1, 2022, Pages 199-211, ISSN 2468-0427, https://doi.org/10.1016/j.idm.2021.12.008."
   },
   {
     "objectID": "cv.html",
@@ -96,5 +54,47 @@
     "title": "Curriculum Vitae",
     "section": "📜 Certifications",
     "text": "📜 Certifications\nInfectious Disease Modelling Specialisation, 2020\nImperial College London (Coursera) - Credential ID: PQYP8CKJFYS3\n- SIR model development, interventions, and calibration\n\nTensorFlow Developer Professional Certificate, 2020\nDeepLearning.AI (Coursera) - Credential ID: MPC3F53UD7QX\n- AI, machine learning, and deep learning using TensorFlow\n- Convolutional Neural Networks, NLP, time series, and forecasting"
+  },
+  {
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "Photos",
+    "section": "",
+    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” ― Ansel Adams"
+  },
+  {
+    "objectID": "photos.html#through-lens",
+    "href": "photos.html#through-lens",
+    "title": "Photos",
+    "section": "",
+    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” ― Ansel Adams"
+  },
+  {
+    "objectID": "posts/Principles of confounder selection/index.html",
+    "href": "posts/Principles of confounder selection/index.html",
+    "title": "Principles of confounder selection - Tyler J VanderWeele",
+    "section": "",
+    "text": "Confounding by covariates C of the relationship between exposure A and outcome Y\n\n\nThe article “Principles of Confounder Selection”, by Tyler J. VanderWeele, published in the European Journal of Epidemiology in 2019 (PMCID: PMC6447501 PMID: 30840181), highlights the importance of correctly selecting confounding factors in observational studies to make valid causal inferences. VanderWeele proposes a practical approach based on identifying variables that are causes of the exposure, the outcome, or both, and suggests excluding those that act as instrumental variables. He also considers the inclusion of proxies for unmeasured variables that may be common causes. The article seeks to balance the need to control confounding factors while avoiding the introduction of additional biases, especially in contexts where the causal structure is not fully understood.\nAdditionally, statistical strategies for selecting covariates in causal studies are discussed, including traditional methods such as forward/backward selection and changes in estimation, as well as more recent approaches like HDPS (High-Dimensional Propensity Scores) and machine learning techniques. It is emphasised that, despite methodological advances, substantive knowledge remains crucial for good selection.\nFrom my experience, this article was a real gateway into the world of causal inference. I found it valuable not only for its conceptual clarity but also because VanderWeele effectively tackles a complex issue with well-grounded and practical recommendations. I consider it essential reading for those starting to face the challenge of controlling for confounding in observational studies, and a reference I return to frequently. Without a doubt, it is one of those works that leaves a lasting impact on anyone interested in causality."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "“You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to. Individuals vary, but percentages remain constant. So says the statistician.” — Sherlock Holmes, The Sign of Four"
+  },
+  {
+    "objectID": "publications.html#scientific-articles",
+    "href": "publications.html#scientific-articles",
+    "title": "Publications",
+    "section": "🔬 Scientific articles",
+    "text": "🔬 Scientific articles\n\nDavid Niño-Torres, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer. Stochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study, Infectious Disease Modelling. Volume 7, Issue 1, 2022, Pages 199-211, ISSN 2468-0427, https://doi.org/10.1016/j.idm.2021.12.008."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David Niño-Torres",
+    "section": "",
+    "text": "About me\nI am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontifical Javierian University.\nMy research interests lie in the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference across the fields of demography, global health, epidemiology, genomics, and environmental studies.\nOutside of work, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and reading philosophy 📚.\n\n“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make” — Jane Goodal."
   }
 ]
