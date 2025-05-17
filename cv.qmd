@@ -60,8 +60,8 @@ toc-depth: 2
 **Technical Skills:** R (advanced), Python (intermediate), SAS (basic), SQL (basic)\
 **Languages:** Spanish (native), English (A1)\
 **Statistical Interests:** Bayesian statistics, stochastic processes, multilevel modelling, statistical learning, and causal inference\
-**Application Areas:** Environmental studies, migration, mortality and ageing, substance use epidemiology, infectious diseases, and genomics\
-**Hobbies:** Photography, history, running, swimming
+**Application Areas:** migration, mortality, historical demography, genomics, substance use epidemiology, environmental studies, and the application of artificial intelligence in health \
+**Hobbies:** Photography, reading, running, swimming
 
 ## 📜 Certifications
 

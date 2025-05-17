@@ -23,7 +23,7 @@ about:
 
 I am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontifical Javierian University.
 
-My research interests lie in the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference across the fields of demography, global health, epidemiology, genomics, and environmental studies.
+My research interests lie in the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference, particularly in the fields of demography, epidemiology, genomics, and environmental studies.
 
 Outside of work, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and reading philosophy 📚.
 
